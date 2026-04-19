@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.qorvo.com	TRUE	/	FALSE	1999999999	shell#lang	en
+www.qorvo.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	j2qabf5yi0ms5v1imacrl5cp
+www.qorvo.com	TRUE	/	FALSE	1999999999	mitPendingInteraction	eyJpbnRlcmFjdGlvbiI6IlVzZXIgdmlzaXRlZCBhIFByb2R1Y3QgQ2F0ZWdvcnkgcGFnZSIsImlzSGlzdG9yaWNhbCI6Ik4iLCJwYWdlVXJsIjoiaHR0cHM6Ly93d3cucW9ydm8uY29tL3Byb2R1Y3RzL2FtcGxpZmllcnMvcG93ZXItYW1wbGlmaWVycyIsInVzZXJBZ2VudCI6Ik1vemlsbGEvNC41IChjb21wYXRpYmxlOyBIVFRyYWNrIDMuMHg7IFdpbmRvd3MgOTgpIiwidmlzaXRUaW1lc3RhbXAiOiIyMDI2LTA0LTE5VDA4OjA1OjIzWiIsImludGVyYWN0aW9uVGltZXN0YW1wIjoiMjAyNi0wNC0xOVQwODowNToyM1oiLCJpcEFkZHJlc3MiOiIzOC4zMi42OC4xOTUiLCJnZW9sb2NhdGlvbiI6IiIsImNhdGVnb3J5VXVpZCI6ImNhMDAxNyIsImNhdGVnb3J5UGF0aCI6IlByb2R1Y3RzID4gQW1wbGlmaWVycyA+IFBvd2VyIEFtcGxpZmllcnMgKD4gMyBXKSJ9
+www.qorvo.com	TRUE	/	FALSE	1999999999	SameSite	None
+fonts.net	TRUE	/	FALSE	1999999999	__cf_bm	aaaZd05YIJjt9.qGpfXOu_3cVzgd5aP3jVtquNzNYJo-1776585948.1306014-1.0.1.1-suPFdnPmTglEZ7DDGfMfDLEgGDAzDecg7YJXEhmUUkCmAh9nnQtFV65O9jnbifzNOL9pl7tWAZlceohJGCLQh19F2_GrvuHof2mi08dJ8TqVpY42QMDA_Qd5JL8Tzx4b
+dc.ads.linkedin.com	TRUE	/	FALSE	1999999999	li_sugr	69d1f2ce-5c64-4473-8f06-d19d872c6446
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST03:s=O:r=O:a=O:p=O:g=3772:u=1:x=1:i=1776586255:t=1776672655:v=2:sig=AQFaL9kH7W4LebiwcR0u6EMen3Om-8zv"
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&ff1c09c0-c98d-4fda-801c-e43828cf854b"
+dc.ads.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
