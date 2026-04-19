@@ -1,0 +1,31 @@
+HTTrack3.49-5 launched on Sun, 19 Apr 2026 03:55:18 at https://www.qorvo.com/products/amplifiers/power-amplifiers +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://www.qorvo.com/products/amplifiers/power-amplifiers -O "/home/andrey/Downloads/apex-ai/websites/qorvo" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:59:18	Warning: 	Found for https://dc.ads.linkedin.com/collect/?pid=1041756&fmt=gif
+03:59:18	Warning: 	File has moved from https://dc.ads.linkedin.com/collect/?pid=1041756&fmt=gif to /collect/?pid=1041756&fmt=gif&cookiesTest=true
+04:01:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://snap.licdn.com/li.lms-analytics/insight.min.js
+04:03:07	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=94d25f4a-3ba1-4f5f-a1db-65f1a3183353
+04:03:07	Warning: 	Retry after error -2 (Receive Time Out) at link connect.facebook.net/en_US/sdk.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:03:07	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://platform.twitter.com/widgets.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:03:07	Warning: 	HTML file (176078 bytes) retransferred due to lack of cache: https://www.qorvo.com/products/amplifiers/catv-amplifiers
+04:03:11	Error: 	"Not Found" (404) at link https://www.qorvo.com/products/amplifiers/3A001.B.2.C (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:03:11	Error: 	"Not Found" (404) at link https://www.qorvo.com/products/amplifiers/3A001.b.2.c (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/products/amplifiers/5A991.G (from https://www.qorvo.com/products/amplifiers/catv-amplifiers)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/css/fonts/slick.eot (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/css/fonts/slick.eot? (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/css/fonts/slick.woff (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/css/fonts/slick.ttf (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/css/fonts/slick.svg (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:04:19	Error: 	"Not Found" (404) at link https://www.qorvo.com/Content/QorvoPublic/images/_fpo/hero-mobile.jpg (from https://www.qorvo.com/Content/QorvoPublic/css/main.css)
+04:05:07	Warning: 	Retry after error -2 (Receive Time Out) at link connect.facebook.net/en_US/sdk.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:05:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://platform.twitter.com/widgets.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:05:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link connect.facebook.net/en_US/sdk.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+04:07:19	Error: 	"error:00000005:lib(0)::reason(5)" (-5) after 2 retries at link https://platform.twitter.com/widgets.js (from https://www.qorvo.com/products/amplifiers/power-amplifiers)
+
+HTTrack Website Copier/3.49-5 mirror complete in 12 minutes 1 seconds : 108 links scanned, 109 files written (13053929 bytes overall) [4301032 bytes received at 5965 bytes/sec], 5329927 bytes transferred using HTTP compression in 37 files, ratio 21%, 2.9 requests per connection
+(11 errors, 9 warnings, 0 messages)
