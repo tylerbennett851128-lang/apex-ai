@@ -1,0 +1,128 @@
+input[type='text'] {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #37474f;
+}
+
+input[type='text']::placeholder {
+  color: rgb(190, 190, 190);
+}
+
+input[type='text']:disabled {
+  background-color: rgba(127, 127, 127, 0.1);
+}
+
+input[type='text']:focus {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='text']:active {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='number'] {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #37474f;
+}
+input[type='number']:disabled {
+  background-color: rgba(127, 127, 127, 0.1);
+}
+
+input[type='number']:focus {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='number']:active {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='tel'] {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  color: #37474f;
+}
+input[type='tel']:disabled {
+  background-color: rgba(127, 127, 127, 0.1);
+}
+
+input[type='tel']:focus {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='tel']:active {
+  outline: none;
+  border: 1px solid rgba(156 163 175);
+  border-radius: 4px;
+  box-shadow: none;
+}
+
+input[type='checkbox'] {
+  background-color: white;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
+  border: 2px solid #37474f;
+  border-radius: 2px;
+  width: 19px;
+  height: 19px;
+}
+
+input[type='checkbox']:disabled {
+  background-color: white;
+  color: #37474f;
+  border: 2px solid #37474f;
+}
+
+input[type='checkbox']:focus {
+  outline: none;
+  border: 2px solid rgba(156 163 175);
+  box-shadow: none;
+}
+
+input[type='checkbox']:active {
+  outline: none;
+  border: 2px solid rgba(156 163 175);
+  box-shadow: none;
+}
+
+.inline-json-editor {
+  input[type='text'] {
+    outline: none;
+    border: 1px solid rgba(156 163 175);
+    border-radius: 4px;
+    box-shadow: none;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    font-size: 0.875rem;
+    line-height: 0.75rem;
+    color: #37474f;
+  }
+}

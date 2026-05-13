@@ -1,0 +1,36 @@
+.menu-link {
+  padding-left: 9.6px;
+  padding-right: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.menu-link:hover,
+.menu-link:active {
+  background-color: #eceff1;
+}
+
+.badge {
+  position: absolute;
+  right: 20px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 0px 0px;
+  font-size: 11px;
+  color: white;
+  background: red;
+  text-align: center;
+  font-weight: bold;
+}
+
+.icon-button {
+  .disabled {
+    filter: invert(68%) sepia(9%) saturate(16%) hue-rotate(5deg) brightness(92%) contrast(93%);
+  }
+
+  .disabled:hover {
+    filter: invert(68%) sepia(9%) saturate(16%) hue-rotate(5deg) brightness(92%) contrast(93%);
+  }
+}
