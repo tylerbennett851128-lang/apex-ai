@@ -8,16 +8,16 @@ For more files and documentation, see the [Google Drive folder](https://drive.go
 
 ## Contents
 
-### EABoard Build Tool (x64) 1.0.0
+### EABoard Build Tool (x64) 1.2.0
 
-Split archive in `EABoard-BuildTool-Setup-x64-1.0.0/` (8 parts: `part1.rar` through `part8.rar`).
+Split archive in `EABoard-BuildTool-Setup-x64-1.2.0/` (8 parts: `part1.rar` through `part8.rar`).
 
 1. Download all parts into the same folder.
 2. Extract `part1.rar` with [WinRAR](https://www.winrar.com/) or 7-Zip. The remaining parts are joined automatically.
 
-### MC POS Build Tool 1.0.0
+### MC POS Build Tool 1.2.0
 
-Split archive in `MC POS Build Tool Setup 1.0.0/` (14 parts: `part01.rar` through `part14.rar`).
+Split archive in `MC POS Build Tool Setup 1.2.0/` (14 parts: `part01.rar` through `part14.rar`).
 
 1. Download all parts into the same folder.
 2. Extract `part01.rar` with WinRAR or 7-Zip. The remaining parts are joined automatically.
